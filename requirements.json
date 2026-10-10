@@ -264,5 +264,62 @@
     "other_rules": "",
     "source_url": "https://developers.mercadolivre.com.br/pt_br/trabalhar-com-imagens",
     "last_verified": "2026-09-13"
+  },
+  {
+    "id": "enem-2026-atendimento",
+    "process": "ENEM 2026 (Edital INEP nº 64/2026), documents for atendimento especializado",
+    "organization": "INEP",
+    "issuer": "INEP",
+    "country": "BR",
+    "document_type": "supporting documents (atendimento especializado)",
+    "section": "4.6",
+    "accepted_formats": [
+      "PDF",
+      "PNG",
+      "JPG"
+    ],
+    "max_size_mb": 2,
+    "max_files": null,
+    "max_total_mb": null,
+    "dimensions": "",
+    "other_rules": "No candidate photo upload at registration; identification is checked in person at the exam site (items 10.1 and 10.5). Source is a mirror of the published edital",
+    "source_url": "https://abmes.org.br/arquivos/legislacoes/Edital-inep-064-2026-05-21.pdf",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "us-visa-photo",
+    "process": "US visa digital photo",
+    "organization": "US Department of State",
+    "issuer": "US government",
+    "country": "US",
+    "document_type": "photo",
+    "section": "Digital Image Requirements page (no clause numbers)",
+    "accepted_formats": [
+      "JPEG"
+    ],
+    "max_size_mb": 0.24,
+    "max_files": null,
+    "max_total_mb": null,
+    "dimensions": "square; minimum 600x600 px, maximum 1200x1200 px",
+    "other_rules": "Limit is 240 kB. 24-bit color in sRGB; compression ratio 20:1 or less",
+    "source_url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos/digital-image-requirements.html",
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "uk-passport-photo",
+    "process": "UK passport online application photo",
+    "organization": "HM Passport Office",
+    "issuer": "UK government",
+    "country": "GB",
+    "document_type": "photo",
+    "section": "gov.uk page \"Photos for passports\" (no clause numbers)",
+    "accepted_formats": "",
+    "max_size_mb": 10,
+    "max_files": null,
+    "max_total_mb": null,
+    "dimensions": "at least 600 px wide and 750 px tall",
+    "other_rules": "File size must be at least 50 KB and no more than 10 MB; the page does not list accepted formats",
+    "source_url": "https://www.gov.uk/photos-for-passports",
+    "last_verified": "2026-10-10"
   }
 ]
