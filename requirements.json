@@ -1,0 +1,89 @@
+[
+  {
+    "id": "oab-45-foto",
+    "process": "45º Exame de Ordem (OAB)",
+    "organization": "OAB",
+    "banca": "FGV",
+    "country": "BR",
+    "document_type": "photo",
+    "section": "2.4.6",
+    "accepted_formats": [
+      "JPEG",
+      "JPG"
+    ],
+    "max_size_mb": 1.0,
+    "other_rules": "foto 3x4",
+    "source_url": "https://oab.fgv.br/arq/648/604589_45%20eou.%20edital%20de%20abertura.%20arquivo%20limpo.%20atualizado..pdf",
+    "last_verified": "2026-09-20"
+  },
+  {
+    "id": "mpes-2026-foto",
+    "process": "MPES Edital 01/2026",
+    "organization": "MPES",
+    "banca": "FGV",
+    "country": "BR",
+    "document_type": "photo",
+    "section": "4.3",
+    "accepted_formats": [
+      "JPEG",
+      "JPG"
+    ],
+    "max_size_mb": 1.0,
+    "other_rules": "foto 3x4 cm",
+    "source_url": "https://conhecimento.fgv.br/sites/default/files/concursos/mpes-edital-v11.03.2026okfinal.pdf",
+    "last_verified": "2026-09-20"
+  },
+  {
+    "id": "tjsc-10-2026-foto",
+    "process": "TJSC Edital 10/2026",
+    "organization": "TJSC",
+    "banca": "FGV",
+    "country": "BR",
+    "document_type": "photo",
+    "section": "4.2.1",
+    "accepted_formats": [
+      "JPEG",
+      "JPG"
+    ],
+    "max_size_mb": 1.0,
+    "other_rules": "foto 3x4",
+    "source_url": "https://conhecimento.fgv.br/sites/default/files/concursos/edital-retificado.pdf",
+    "last_verified": "2026-09-20"
+  },
+  {
+    "id": "dpgerj-xxix-foto",
+    "process": "DPGE-RJ XXIX Concurso",
+    "organization": "DPGE-RJ",
+    "banca": "FGV",
+    "country": "BR",
+    "document_type": "photo",
+    "section": "5.2.g / 5.2.h",
+    "accepted_formats": [
+      "PDF",
+      "JPEG",
+      "JPG"
+    ],
+    "max_size_mb": 5.0,
+    "other_rules": "foto 3x4",
+    "source_url": "https://conhecimento.fgv.br/sites/default/files/concursos/edital-de-concurso-xxix-dpgerj.pdf",
+    "last_verified": "2026-09-20"
+  },
+  {
+    "id": "pcpe-1-2023-foto",
+    "process": "PC-PE Edital 1/2023",
+    "organization": "PC-PE",
+    "banca": "Cebraspe",
+    "country": "BR",
+    "document_type": "photo",
+    "section": "6.4.4 / 6.4.4.1.3",
+    "accepted_formats": [
+      "PNG",
+      "JPEG",
+      "JPG"
+    ],
+    "max_size_mb": 1.0,
+    "other_rules": "cabeça descoberta e ombros; foto tirada nos 6 meses anteriores",
+    "source_url": "https://cdn.cebraspe.org.br/concursos/pc_pe_23/arquivos/ED_1_2023_PC_PE_ABERTURA_ATUALIZADO_ED_4.PDF",
+    "last_verified": "2026-09-20"
+  }
+]
