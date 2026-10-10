@@ -1,4 +1,4 @@
-# Exam and public-service photo and file requirements (Brazil)
+# Exam and public-service photo and file requirements (mostly Brazil)
 
 A small, sourced dataset of the file rules that applicant portals enforce on uploads: accepted formats, size limits and, where published, dimensions. Each row points to the official edital PDF or service page it was read from, with the clause number when the source has one. No blogs, no forum answers.
 
@@ -10,6 +10,8 @@ Each row carries its own `last_verified` date. Editais can be rectified and port
 - Accepted formats differ between institutions. FGV photo rows accept JPEG/JPG only, while Cebraspe (PC-PE 1/2023) also accepts PNG. A file that passes one upload can be refused by another.
 - Detran-SP's recurso de multa (JARI) flow does not list JPG or PNG among accepted formats. A photo has to be turned into a PDF first.
 - Detran-SP vehicle services limit each attachment to 1.2 MB and all attachments together to 15 MB.
+- ENEM 2026 takes no candidate photo at registration, but the supporting documents for atendimento especializado must be PDF, PNG or JPG, up to 2 MB (item 4.6 of Edital INEP nº 64/2026).
+- Outside Brazil, for comparison: the US visa photo must be JPEG, square, 600 to 1200 px, at most 240 kB. The UK passport photo page gives a file size of 50 KB to 10 MB and at least 600 x 750 px.
 
 ## Files
 
@@ -25,7 +27,7 @@ Primary sources only: the published edital PDF or the official service page, rea
 
 - gov.br account verification: it uses live camera capture, not a file upload.
 - Cebraspe's public upload page publishes no numeric limit; the number is in each edital.
-- ENEM 2026 has no candidate photo upload at registration.
+- ENEM 2026 has no candidate photo upload at registration; only the atendimento especializado documents are listed.
 - Rules that sit only behind a login are not published here unless an official document states them.
 
 ## License
