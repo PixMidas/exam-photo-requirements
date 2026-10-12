@@ -1,0 +1,13 @@
+{
+  "title": "Exam and public-service photo and file requirements (mostly Brazil)",
+  "upload_type": "dataset",
+  "description": "A small, hand-sourced dataset of the file rules that applicant portals enforce on uploads: accepted formats, size limits and, where published, dimensions. Each row points to the official edital PDF or service page it was read from, with the clause number when the source has one. Each row carries its own last_verified date.",
+  "creators": [{"name": "PixMidas"}],
+  "license": "cc-by-4.0",
+  "keywords": ["concurso", "edital", "photo upload", "file size limit", "Brazil", "FGV", "Cebraspe", "OAB"],
+  "language": "por",
+  "related_identifiers": [
+    {"identifier": "https://github.com/PixMidas/exam-photo-requirements", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "https://www.pixmidas.com/pt/tamanho-da-foto-para-concurso/", "relation": "isDocumentedBy", "scheme": "url"}
+  ]
+}
