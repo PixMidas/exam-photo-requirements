@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Exam and public-service photo and file requirements (mostly Brazil)"
+type: dataset
+authors:
+  - name: "PixMidas"
+    website: "https://www.pixmidas.com"
+repository-code: "https://github.com/PixMidas/exam-photo-requirements"
+url: "https://www.pixmidas.com/pt/tamanho-da-foto-para-concurso/"
+license: CC-BY-4.0
+keywords:
+  - concurso
+  - edital
+  - photo upload requirements
+  - file size limits
+  - Brazil
+abstract: "A small, hand-sourced dataset of the file rules applicant portals enforce on uploads (accepted formats, size limits, dimensions), each row linked to the official edital PDF or service page and clause number."
