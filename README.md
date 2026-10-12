@@ -6,7 +6,7 @@ Each row carries its own `last_verified` date. Editais can be rectified and port
 
 ## What the data shows
 
-- There is no single "FGV rule" or "Cebraspe rule". Each edital sets its own limit. Among the FGV photo rows, three cap the photo at 1 MB and one (DPGE-RJ XXIX) allows 5 MB and also accepts PDF.
+- There is no single "FGV rule" or "Cebraspe rule". Each edital sets its own limit. Among the FGV photo rows, four cap the photo at 1 MB and one (DPGE-RJ XXIX) allows 5 MB and also accepts PDF.
 - Accepted formats differ between institutions. FGV photo rows accept JPEG/JPG only. The Cebraspe PC-PE 1/2023 edital states no photo format or size (items 6.4.4 and 6.4.4.1) and defers to the inscription system. A file that passes one upload can be refused by another.
 - Detran-SP's recurso de multa (JARI) flow does not list JPG or PNG among accepted formats. A photo has to be turned into a PDF first.
 - Detran-SP vehicle services limit each attachment to 1.2 MB and all attachments together to 15 MB.
