@@ -37,7 +37,7 @@
     "dimensions": "",
     "other_rules": "foto 3x4; fundo neutro, rosto de frente e descoberto",
     "source_url": "https://s.oab.org.br/arquivos/2026/05/3578986c-fb9e-42ed-b68b-9a5131c86c9a.pdf",
-    "last_verified": "2026-09-13"
+    "last_verified": "2026-10-11"
   },
   {
     "id": "oab-47-documentos",
@@ -170,19 +170,15 @@
     "issuer": "Cebraspe",
     "country": "BR",
     "document_type": "photo",
-    "section": "6.4.4; 6.4.4.1.3",
-    "accepted_formats": [
-      "PNG",
-      "JPEG",
-      "JPG"
-    ],
-    "max_size_mb": 1,
+    "section": "6.4.4; 6.4.4.1",
+    "accepted_formats": null,
+    "max_size_mb": null,
     "max_files": null,
     "max_total_mb": null,
     "dimensions": "",
-    "other_rules": "cabeça descoberta e ombros; foto tirada nos 6 meses anteriores",
+    "other_rules": "foto tirada nos 6 meses anteriores à data de publicação do edital; cabeça descoberta e ombros visíveis; formato e tamanho conforme o sistema de inscrição (não constam do edital)",
     "source_url": "https://cdn.cebraspe.org.br/concursos/pc_pe_23/arquivos/ED_1_2023_PC_PE_ABERTURA_ATUALIZADO_ED_4.PDF",
-    "last_verified": "2026-09-20"
+    "last_verified": "2026-10-11"
   },
   {
     "id": "detran-sp-veiculo",
@@ -263,7 +259,7 @@
     "dimensions": "recommended 1200x1200 px; minimum 500x500; maximum 1920x1920",
     "other_rules": "",
     "source_url": "https://developers.mercadolivre.com.br/pt_br/trabalhar-com-imagens",
-    "last_verified": "2026-09-13"
+    "last_verified": "2026-10-10"
   },
   {
     "id": "enem-2026-atendimento",
