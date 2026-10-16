@@ -82,6 +82,26 @@
     "last_verified": "2026-09-13"
   },
   {
+    "id": "oab-48-foto",
+    "process": "48º Exame de Ordem (OAB)",
+    "organization": "OAB",
+    "issuer": "FGV",
+    "country": "BR",
+    "document_type": "photo",
+    "section": "2.4.6",
+    "accepted_formats": [
+      "JPEG",
+      "JPG"
+    ],
+    "max_size_mb": 1,
+    "max_files": null,
+    "max_total_mb": null,
+    "dimensions": "",
+    "other_rules": "foto 3x4; fundo neutro, rosto de frente e descoberto",
+    "source_url": "https://s.oab.org.br/arquivos/2026/09/fb43fb37-838e-4d33-a863-99fa1f98b921.pdf",
+    "last_verified": "2026-10-16"
+  },
+  {
     "id": "mpes-2026-foto",
     "process": "MPES Edital 01/2026",
     "organization": "MPES",
