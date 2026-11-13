@@ -8,6 +8,9 @@ authors:
 repository-code: "https://github.com/PixMidas/exam-photo-requirements"
 url: "https://www.pixmidas.com/pt/tamanho-da-foto-para-concurso/"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.24185961
+version: "1.0"
+date-released: 2026-11-13
 keywords:
   - concurso
   - edital
