@@ -4,6 +4,12 @@ A small, sourced dataset of the file rules that applicant portals enforce on upl
 
 Each row carries its own `last_verified` date. Editais can be rectified and portals change; check the source before relying on a row.
 
+> **Disclaimer:** Informational only, not an official source, and provided with no warranty. Rules, laws and file sizes change, and this dataset may not reflect the latest change. Always confirm in the official edital or service page before you apply. You are responsible for how you use it.
+
+**Cite this dataset:** PixMidas. Exam and public-service photo and file requirements (mostly Brazil), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.24185961
+
+Also available on Hugging Face: https://huggingface.co/datasets/PixMidas/exam-photo-requirements
+
 ## What the data shows
 
 - There is no single "FGV rule" or "Cebraspe rule". Each edital sets its own limit. Among the FGV photo rows, five cap the photo at 1 MB and one (DPGE-RJ XXIX) allows 5 MB and also accepts PDF. The OAB rule has not moved: the 45º, 47º and 48º Exames de Ordem all state the same item 2.4.6, foto 3x4 in JPEG or JPG up to 1 MB.
